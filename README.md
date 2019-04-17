@@ -19,7 +19,7 @@ This is the first homepage that I built and continued to add upon during the cou
 This website allows for the user to order flooring for any sort of room. It takes in the dimensions of the room, and based off of set prices for the size and type of tile, it will calculate the total amount for the order.
 - uses `flooring.js` as the JavaScript file to print out the customer's "receipt".
 
-### `tables.html`
+### `Tables.html`
 This website allowed me to use tables to organize text, images, and links into neat rows and columns. 
 
 ### `bootstrapmainpage.html`
